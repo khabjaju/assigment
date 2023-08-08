@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: skyblue;
+    width: auto;
+    height: auto;
+    margin: auto;
+  }
+nav a{
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: rgb(94, 95, 94);
+}
+header{
+    background-color:seagreen;
+    text-align:center ;
+    color:whitesmoke;
+    padding:5px;
+}
+.Footer a{
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+}
+.Footer footer{
+    background-color:seagreen;
+    text-align:center ;
+    color:whitesmoke;
+    height: 100px;
+    padding:5px;
+}
